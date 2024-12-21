@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'dcivreg': Doubly corrected robust variance estimator in cross sectional IV/GMM Use dcivreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f dcivreg.ado
+f dcivreg.sthlp
